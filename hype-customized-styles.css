@@ -11,3 +11,8 @@
     align-items: center;
     justify-content: center;
 }
+
+
+.alert-successHype {
+    background-color: #03a9f4;
+}
